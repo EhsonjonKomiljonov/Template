@@ -509,6 +509,7 @@ ol {
   border: 0;
   background-image: linear-gradient(180deg, #ffd154 0%, #ffc936 99.48%);
   border-radius: 17.5px;
+  cursor: pointer;
 }
 
 /* FOOTER END */
